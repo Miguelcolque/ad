@@ -1,0 +1,230 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name='viewport' content='width=device-width, initial-scale=1'>
+<title>mi primera pagina</title>
+
+
+<img src="muerte.jpg">
+<body>
+    <h1>como jugar LOL </h1>
+    <div id="menu">
+        <h2>Menu</h2>
+        <ul>
+
+
+
+            <li>
+              Posisiones de los heroes
+            </li>
+            <li>
+              Objevos del jungla
+            </li>
+            <li>
+              Bariedad de heroes
+            </li>
+            <li>
+              forma adecuada para armar un heroe
+            </li>
+            <li>
+                preguntas flecuentes
+              </li>
+        </ul>
+        <p> League of Legends es un juego de estrategia por equipos en el que dos equipos conformados por cinco poderosos campeones se enfrentan para destruir la base del otro. Elige de entre más de 140 campeones para realizar jugadas épicas, asegurar asesinatos y destruir torretas mientras avanzas hacia la victoria.</p>
+        <ul>
+          <li>
+            destruye el nexo enemigo
+          </li>
+          <li>
+            despeja el camino
+          </li>
+          <li>
+           elige tu carril
+          </li>
+
+        </ul>
+        <ul>
+
+
+
+            <li>
+              Posisiones de los heroes
+            </li>
+            <li>
+              Objevos del jungla
+            </li>
+            <li>
+              Bariedad de heroes
+            </li>
+            <li>
+              forma adecuada para armar un heroe
+            </li>
+            <li>
+                preguntas flecuentes
+              </li>
+        </ul>
+        <img src="mapa.jpg">
+
+        <h2> Nexo  </h2>
+        <p> El nexo els el edifisio mas importante esta resguardada por 2 torres  el nexo no ataca pero si ataca en la version para celilar  Legua of legends Walt ritf puedes escojer si vas arriba de color rojo o si vas avajo de color azul </p>
+
+
+        <img src="mapa.jpg">
+
+
+
+        <h2> carriles   </h2>
+
+        <p> as linea que tomaras dependera que rol tomaras en la partida lla que cada linea tiene un proposito y si la dominas tu linea creeme que las partidas seran mas emosionantes pero encontrar tu linea preerida no sera difisil.
+        Pero algo que es obligatorio es que tienes que dominar todas las lineas para tener mejor conosimiento sabras que cada linea tiene su rol y importancia en la partida  </p>
+        <ul>
+            <li>
+              TOP
+            </li>
+            <li>
+              MID
+            </li>
+            <li>
+             JUNGLA
+            </li>
+            <li>
+              BOT
+            </li>
+            <li>
+              SUPOR
+            </li>
+
+          </ul>
+
+
+
+      <img src="muerte.jpg">
+
+
+
+
+
+
+
+       <h2> DRAGONES </h2>
+
+       <p> hay 5 tipos distintos de dragones como el dragon de fuego, el dragon de helo, el dragon de viento, el dragon de vida, el dragon gesdetk y el ultimo que es el dragon ansestral
+        Existen punto de alma y es cueando matas al mismo dragon 3 veses cada dragon te da una bonificacion no solo a ti si no a todo tu equipo por ejemplo dragon de fuego (otorga daño estra), el dragon de viento (da velocidad extra ), el dragon de vida (como su nombre lo dise amunta la vida y tambien mejora las abilidades de curacion y los itens), el dragon ansestral que sale al ultimo (provoca que si el  enemigi que queda por devajo del 30% de su vida y tu le pegas un basico o bilidad lo mataras al instante )
+         </p>
+
+
+         <img src="baron.jpg">
+
+
+      <h2> BARON NASORT  </h2>
+
+      <p>  el Baron aparese despues de que el segundo heraldo haiga desaparesido y no dejara de aparese hasta que la partida hayga terminado el baron nazort cuando lo matas genera que mejora tus abilidades y ataque basicos tambien pasa lo mismos con los subditos pero para que esto pase tienes que esta serca de la oleada de subditos para que resiban el bufo del baron nazort tambien mejora tu belosidadal usar tepe para bolber a la base  </p>
+
+
+      <img src="Heraldo.jpg">
+
+
+
+      <h2> HERALDO</h2>
+
+
+      <p> Es un escarabjo aparese juntamente con el dragon alotro extemo del mapa al matarlo soltara un horbe si lo agaras no podras usar al heraldo si logras matarlo y agaras el orbe podras imbocarlo y esto ocasionara que el eraldo siga una linea la que hayas tirado y segura asta morir cuando esta serca de una tore enemiga esto provocara que empuese a cargar y se imbista contra la torre enemiga si la torre enemiga esta al maximo el daño sera mañor pero si no lo esta su daño no sera tan grande en total aparesen solo 2 heraldos en toda la partida  </p>
+      <ul>
+
+
+
+        <li>
+          Posisiones de los heroes
+        </li>
+        <li>
+          Objevos del jungla
+        </li>
+        <li>
+          Bariedad de heroes
+        </li>
+        <li>
+          forma adecuada para armar un heroe
+        </li>
+        <li>
+            preguntas flecuentes
+          </li>
+    </ul>
+
+
+    </body>
+
+
+
+
+
+    <img src="irelia.jpg">
+
+    <h2> preguntas frecuentes  </h2>
+    <p> es un juego moba que juegan 10 que manejan un heroe en espesifico  </p>
+ <h3> 1 ¿el fameo (conseguir oro para armar al heroe)?</h3>
+ <p> R.- Hay unos mostruos llamados krips que al matarlos te otorgan una cantidad espesifica de oro</p>
+ <h3> 2 ¿Tipos de objetivos que juega pada jugados ?</h3>
+ <p> R.- hay 5 lineas </p>
+  <a> calle de mid </a>    <a> jungla </a>="                " <a> adc carri</a> <a> suport</a>
+ <a> calle de top </a>
+ <h3> 3 ¿que ase el calle de top ?</h3>
+ <p>R.-  la calle de top es una calle donde ban mas que todo los heroes tamque esta linea se encuentra arriba del mapa </p>
+ <h3> 4 ¿objetibo de los top ?</h3>
+ <p>R.- su objetivo es soportar todo el daño del equipo enemigo tambien dependiendo de la situsion de la partida puede inisiar un abatalla o no  </p>
+ <h3> 5 ¿ que ase la calle de mid ?</h3>
+ <p> R.- en esta calle ban masque todo heroes de daño magico heroes que se caracterizan de combos de avilidades </p>
+ <h3> 6 ¿ovjetivo del mid?</h3>
+ <p>R.- su objetivo es ayudar al jumgla con los objetivos como el (dragon , Baron Nashort y el Heraldo) tambien es
+     es el encargado de ayudar a las otras lineas aser rotaciones  </p>
+ <h3> 7 ¿ que es el jungla ?</h3>
+ <p>R.- el jumgla es son heroes que son asesinos y tienen movilidad no tiene una linia en especifico su objetivo prinsipal sonlos objetivos dragones
+     y ayudar a los demas  </p>
+ <h3> 8 ¿objetivo de adc carri ?</h3>
+ <p>R.- el el heroe que le tomas mas tiempo armar llaque el el eroe que ase mas daño son heroes que normalmente asesn daño puro pero son flajiles
+
+ </p>
+ <h3> 9 ¿que ase el supor ?</h3>
+ <p>R.- el supor es una linea como tamque es el que se encarga de proteger cuidar a adc carri  </p>
+ <h3> 10 ¿los objetivos?</h3>
+ <p>R.-Hay 3 objetivos que son (dragon, Baron Nashort, y el Heraldo) estos objetibos dan pequeñas avilidades a todo el equipo  </p>
+
+
+
+ <h1> FORMULARIO PARA UNIRTE A NUESTRA COMINIDAD</h1>
+ <ul>
+    <li>
+      <label for="name">NOMBRE DE TU CUENTA:</label>
+      <input type="text" id="name" name="user_name" />
+    </li>
+    <li>
+      <label for="mail">Email DE TU CUENTA BINCULADA:</label>
+      <input type="email" id="mail" name="user_email" />
+    </li>
+    <li>
+      <label for="msg">Opinion de la pagina:</label>
+      <textarea id="msg" name="user_message"></textarea>
+    </li>
+    <li>
+        <label for="pregunta">apartado para preguntas :</label>
+        <textarea id="pregunta"name="user_message"></textarea>
+    </li>
+  </ul>
+  <li> </li>
+  <li class="button">
+    <button type="submit">Send your message</button>
+  </li>
+
+ <h4></h4>
+ <h5></h5>
+ <h6></h6>
+
+
+
+
+
+</head>
+
+
+</html>
